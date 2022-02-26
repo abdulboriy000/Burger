@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Mulish';
+    src:url('../fonts/mulish-v5-latin-regular.woff2');
+    
+}
+
+@font-face {
+    font-family: 'Mulish600';
+    src:  url('../fonts/mulish-v5-latin-600.woff2');
+}
+
+@font-face {
+    font-family: 'Mulish700';
+    src: url('../fonts/mulish-v5-latin-700.woff2');
+}
